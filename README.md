@@ -112,14 +112,6 @@ The problem is framed as a **binary classification task**, where the objective i
 
 ---
 
-## Repository Structure
-
-├── DataPreprocessing.ipynb
-├── processed_customer_data.csv
-├── README.md
-
----
-
 ## Technologies Used
 
 - Python  
